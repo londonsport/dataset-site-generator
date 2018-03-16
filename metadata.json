@@ -1,9 +1,9 @@
 {
-  "dataset-site-url": "https://data.opensessions.io/",
+  "dataset-site-url": "opensessions-oa.github.io/",
   "title": "Open Sessions",
   "description": "Session data from the Open Sessions site",
   "publisher-name": "London Sport",
-  "publisher-url": "https://www.londonsport.org",
+  "publisher-url": "https://opensessions.io",
   "keyword-1": "",
   "keyword-2": "",
   "data-url": "https://opensessions.io/api/Session/GetSessionsForOpenActive",
