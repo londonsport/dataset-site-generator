@@ -1,5 +1,5 @@
 {
-  "dataset-site-url": "https://opensessions-oa.github.io/",
+  "dataset-site-url": "https://data.opensessions.io/",
   "title": "Open Sessions",
   "description": "Session data from the Open Sessions site",
   "publisher-name": "London Sport",
@@ -17,5 +17,5 @@
   "mailchimp": "require([\"mojo/signup-forms/Loader\"], function(L) { L.start({\"baseUrl\":\"mc.us8.list-manage.com\",\"uuid\":\"1aae671004c338bff2eacfa65\",\"lid\":\"99a067fa45\"}) })",
   "copyright-notice": "",
   "odi-certificate-number": "",
-  "publish": false
+  "publish": true
 }
